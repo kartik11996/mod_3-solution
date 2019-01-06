@@ -2,12 +2,12 @@ body {
 	font-size: 16px;
 	color: white;
 	background-color: lavender;
-	font-family: 'Lobster', cursive;
+	font-family:  Arial, Helvetica, sans-serif;
 }
 
 /* HEADER */
 #header-nav {
-	background-color: #530fad;
+	background-color: reddish;
 	border-radius: 0;
 	border: 0;
 	color: white;
@@ -28,7 +28,7 @@ body {
 }
 
 #nav-list a:hover {
-	background-color: #8243d6;
+	background-color: blue;
 }
 /* END HEADER */
 
